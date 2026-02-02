@@ -1,0 +1,26 @@
+{
+  "name": "aimpexx",
+  "version": "1.0.0",
+  "description": "'",
+  "keywords": [
+    ";"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "aimpexx"
+  },
+  "license": "ISC",
+  "author": "crown",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "express-validator": "^7.3.1",
+    "middlewares": "^0.1.1",
+    "nodemon": "^3.1.11"
+  }
+}

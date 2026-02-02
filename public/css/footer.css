@@ -1,0 +1,187 @@
+.aboutus {
+    margin: unset;
+    justify-content: center;
+    justify-self: center;
+}
+
+.aboutus .herosection {
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    gap: 20px;
+    margin: 50px 0px 0px 0px;
+}
+
+.aboutus h2 {
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #211d1d;
+    text-align: center;
+}
+
+.aboutus p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #101987;
+    width: 581px;
+    margin: 20px 0px 0px 0px;
+    text-align: left;
+}
+
+.aboutus span {
+    color: #211d1d;
+    padding-top: 5px;
+    margin: unset;
+}
+
+.aboutus img {
+    width: 485px;
+    height: 476px;
+    object-fit: cover;
+    overflow: hidden;
+    margin: unset;
+}
+
+.valuessection {
+    margin-top: 80px;
+    justify-content: center;
+    justify-self: center;
+}
+
+.valuessection h2 {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    color: #101987;
+}
+
+.valuessection .values {
+    display: flex;
+    gap: 10px;
+    flex-grow: 1;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin: 10px 0px 0px 0px;
+}
+
+.valuessection .values .value {
+    width: 230px;
+    height: 261px;
+    border-radius: 10px;
+    margin: unset;
+    color: #fff;
+    justify-content: center;
+    padding-left: 25px;
+}
+
+.valuessection .values .value h3 {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    margin: unset;
+    text-align: left;
+    padding: 15px 0px 0px 0px;
+}
+
+.valuessection .value .value p {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 14px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    margin: unset;
+    text-align: left;
+}
+
+.chooseus {
+    margin: 100px 0px 0px 0px;
+    justify-content: center;
+    justify-self: center;
+}
+
+.chooseus h2 {
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    color: #101987;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.chooseus .chooseuscontent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: unset;
+    justify-self: center;
+    justify-content: center;
+}
+
+.chooseus .chooseuscontent .chooseusitem img {
+    width: 365px;
+    height: 167px;
+    margin: unset;
+    overflow: hidden;
+} 
+
+.chooseus .chooseuscontent .chooseusitem h3 {
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.chooseus .chooseuscontent .chooseusitem p {
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    margin: unset;
+    padding-top: 20px;
+}
+
+.terms {
+    justify-content: center;
+    justify-self: center;
+}
+
+.terms h2 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 122%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    text-align: center;
+}
+
+.terms p {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 122%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}

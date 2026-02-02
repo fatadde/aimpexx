@@ -1,0 +1,906 @@
+.hero {
+    width: 1100px;
+    height: 431px;
+    border-radius: 20px;
+    background-color: #f4f9fc;
+    margin-top: 20px;
+    display: flex;
+}
+
+.hero .hero-bg .img1 {
+    position: relative;
+    top: 190px;
+    width: 196px;
+    height: 209;
+}
+
+.hero .hero-bg .img2 {
+    position: absolute;
+    left: 230px;
+    top: 250px;
+    width: 196px;
+    height: 209;
+}
+
+.hero .hero-bg .img3 {
+    position: absolute;
+    left: 90px;
+    top: 150px;
+    width: 196px;
+    height: 209;
+}
+
+.hero .hero-info {
+    position: absolute;
+    top: 220px;
+    left: 420px;
+    text-align: center;
+}
+
+.hero .hero-info h2 {
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 130%;
+    letter-spacing: 0;
+    color: #211d1d;
+}
+
+.hero .hero-info span {
+    position: relative;
+    left: -50px;
+}
+
+.hero .hero-info h2 .pan  {
+    color: #101987;
+    position: relative;
+    right: -20px;
+}
+
+.hero .hero-info h2 .pan2 {
+    color: #101987;
+    position: relative;
+    left: -20px;
+}
+
+.hero .hero-info p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 120%;
+    color: #d6cdcd;
+    padding: 10px 0px 12px 0px;
+}
+
+.hero .hero-info div button {
+    width: 193px;
+    height: 51px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.hero .hero-info div .button1 {
+    color: white;
+    background-color: #0771c4;
+    border: none;
+    cursor: pointer;
+}
+
+.hero .hero-info div .button2 {
+    border: 1px solid #101987;
+    color: #101987;
+    background-color: white;
+    position: relative;
+    left: 10px;
+    cursor: pointer;
+}
+
+.article {
+    margin-top: 70px;
+}
+
+.article h2 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.article p {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 110%;
+    text-align: center;
+    color: #211d1d;
+    margin-top: 10px;
+}
+
+.article .product-info {
+    width: 1100px;
+    height: 344px;
+    background-color: #f4f9fc;
+    border-radius: 20px;
+    margin: 30px 0px 0px 0px;
+    border: 2px solid #0771c4;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-self: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.article .product-info .suppliers {
+    padding: unset;
+    margin: unset;
+}
+
+.article .product-info .suppliers h2 {
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 100%;
+    color: #211D1D;
+    letter-spacing: 0;
+    text-align: unset;
+}
+
+.article .product-info .suppliers p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #0771C466;
+    text-align: unset;
+}
+
+.article .product-info .suppliers b {
+    font-weight: 700;
+    font-size: 25px;
+    color: #101987;
+    position: relative;
+    right: 30px;
+    top: 5px;
+}
+
+.article .product-info .suppliers span {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    color: #00000040;
+    position: relative;
+    right: 30px;
+}
+
+.cover1 {
+    background-color: #ffffff;
+    width: 100px;
+    height: 35px;
+    margin: unset;
+    position: absolute;
+    top: 795px;
+    left: 550px;
+}
+
+.cover2 {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 35px;
+    margin: unset;
+    position: absolute;
+    top: 1140px;
+    left: 550px;
+}
+
+.article .product-info .img1 img  {
+    width: 345px;
+    height: 350px;
+    position: relativ;
+    top: px;
+    left: 3px;
+    padding: unset;
+    background-color: white;
+    border-radius: 200px;
+    border: 20px solid #fff;
+    overflow: hidden;
+    margin: unset;
+}
+
+.article .product-info .img1 {
+    border-radius: 450px;
+    border: 5px solid #0771C4;
+    width: 350px;
+    height: 360px;
+    margin: unset;
+    padding: unset;
+}
+
+.article .product-info .quality {
+    padding: unset;
+    display: block;
+}
+
+.article .product-info .quality h2 {
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 100%;
+    color: #211D1D;
+    letter-spacing: 0;
+    text-align: unset;
+}
+
+.article .product-info .quality p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #0771C466;
+    text-align: unset;
+    width: 280px;
+    padding-top: 5px;
+}
+
+.article .product-info .quality b {
+    font-weight: 700;
+    font-size: 25px;
+    color: #101987;
+    position: relative;
+    right: 30px;
+    top: 5px;
+}
+
+.article .product-info .quality span {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    color: #00000040;
+    position: relative;
+    right: 30px;
+}
+
+.article .cost-info {
+    width: 1100px;
+    height: 344px;
+    background-color: #f4f9fc;
+    border-radius: 20px;
+    margin: 30px 0px 0px 0px;
+    border: 2px solid #0771c4;
+    display: flex;
+    gap: 30px;
+    margin: 50px 0px 0px 0px;
+    justify-self: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.article .cost-info .shipping {
+    padding: unset;
+    margin: unset;
+    text-align: left;
+}
+
+.article .cost-info .shipping h2 {
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 100%;
+    color: #211D1D;
+    letter-spacing: 0;
+    text-align: left;
+    margin: unset;
+    padding: 0px 18px 0px 0px;
+}
+
+.article .cost-info .shipping p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #0771C466;
+    text-align: left;
+    width: 280px;
+}
+
+.article .cost-info .shipping b {
+    font-weight: 700;
+    font-size: 25px;
+    color: #101987;
+    position: relative;
+    right: 30px;
+    top: 5px;
+}
+
+.article .cost-info .shipping span {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    color: #00000040;
+    position: relative;
+    right: 30px;
+}
+
+.cover11 {
+    background-color: #ffffff;
+    width: 110px;
+    height: 30px;
+    margin: unset;
+    position: absolute;
+    top: 1200px;
+    left: 550px;
+}
+
+.cover22 {
+    background-color: #fff;
+    width: 100px;
+    height: 30px;
+    margin: unset;
+    position: absolute;
+    top: 1540px;
+    left: 562px;
+}
+
+.article .cost-info .img2 img  {
+    width: 345px;
+    height: 350px;
+    padding: unset;
+    background-color: white;
+    border-radius: 200px;
+    border: 20px solid #fff;
+    overflow: hidden;
+    margin: unset;
+}
+
+.article .cost-info .img2 {
+    border-radius: 450px;
+    border: 5px solid #0771C4;
+    width: 350px;
+    height: 360px;
+    margin: unset;
+    padding: unset;
+}
+
+.article .cost-info .quality2 {
+    padding: unset;
+    margin: unset;
+}
+
+.article .cost-info .quality2 h2 {
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 100%;
+    color: #211D1D;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.article .cost-info .quality2 p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #0771C466;
+    text-align: unset;
+    width: 280px;
+    padding-top: 5px;
+}
+
+.article .cost-info .quality2 b {
+    font-weight: 700;
+    font-size: 25px;
+    color: #101987;
+    position: relative;
+    right: 30px;
+    top: 5px;
+}
+
+.article .cost-info .quality2 span {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    color: #00000040;
+    position: relative;
+    right: 30px;
+}
+
+.article #shipping {
+    text-align: center;
+    width: 158px;
+    height: 51px;
+    border-radius: 10px;
+    background-color: #0771c4;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+    border: none;
+    color: #fff;
+    position: relative;
+    left: 500px;
+    top: 25px;
+    cursor: pointer;
+}
+
+.arrow {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 630px;
+    left: 550px;
+    background-color: #fff;
+    padding: 20px 0px 0px 20px;
+    border-radius: 70px;
+    margin: unset;
+}
+
+.arrow-image {
+    width: 80px;
+    height: 80px;
+    margin: unset;
+}
+
+.info-center {
+    width: 1228px;
+    height: 1650px;
+    background-image: url('/images/Rectangle.png');
+    background-repeat: no-repeat;
+    margin-top: 80px;
+    position: relative;
+    right: 30px;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 100px;
+}
+
+.info-center h2 {
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    color: #211D1D;
+    width: 894px;
+    text-align: center;
+}
+
+.info-center .boxs {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 50px;
+}
+
+.info-center .boxs .box {
+    width: 500px;
+    height: 400px;
+    border-radius: 15px;
+    background-color: #0772c4ff;
+    margin-bottom: 40px;
+}
+
+.info-center .boxs .box h2 {
+    font-weight: 800;
+    font-size: 27px;
+    color: #fff;
+    margin: 0px 0px 20px 0px;
+    width: unset;
+    text-align: unset;
+}
+
+.info-center .boxs .box p {
+    font-weight: 400;
+    font-size: 16px;
+    width: 465px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.info-center .boxs .box img {
+    width: 94px;
+    height: 94px;
+}
+
+.info-center .boxs .box ul li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    width: 465px;
+    color: #fff;
+}
+
+.howitworks {
+    margin-top: 80px;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+}
+
+.howitworks .head h2 {
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.howitworks .head p {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 110%;
+    text-align: center;
+    color: #211d1d;
+    margin-top: 10px;
+    width: 693px;
+}
+
+.howitworks .steps {
+    display: flex;
+    gap: px;
+    margin-top: 50px;
+    justify-content: center;
+    justify-items: center;
+    cursor: pointer;
+}
+
+.howitworks .steps .step .profile-img {
+    width: 296px;
+    height: 121px;
+    border-radius: 5px;
+    background-color: #e6f1f9;
+    background-size: cover;
+    margin: unset;
+}
+
+.howitworks .steps .step img {
+    width: 157px;
+    height: 157px;
+    border-radius: 5px;
+    margin: unset;
+    position: relative;
+    left: 60px;
+    top: -20px;
+}
+
+.howitworks .steps .step h2 {
+    font-weight: 800;
+    font-size: 20px;
+    letter-spacing: 0%;
+    line-height: 100%;
+    color: #0771C4;
+    margin-top: 10px;
+}
+
+.howitworks .steps .step p {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: 10px 0px;
+}
+
+.howitworks .steps .step ul {
+    padding-left: 30px;
+    margin-bottom: 80px;
+}
+
+.howitworks .steps .step ul li {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    list-style: disc;
+}
+
+.booking {
+    width: 1007px;
+    height: 262px;
+    box-shadow: 0px 11px 6.7px 6px #00000012;
+    border-radius: 10px;
+    justify-content: center;
+    justify-self: center;
+    text-align: center;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.booking img {
+    width: 455px;
+    height: 304px;
+    position: relative;
+    left: -120px;
+    top: 20px;
+}
+
+.booking div {
+    margin: 0;
+    position: relative;
+    right: 110px;
+    line-height: 220%;
+}
+
+.booking div h1 {
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.booking div p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.booking div span {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0771C4;
+}
+
+.booking div h2 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.booking div button {
+    width: 395px;
+    height: 51px;
+    background-color: #0771C4;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border-radius: 10px;
+    color: #fff;
+    border: unset;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.questions {
+    background-color: #e6f1f9;
+    width: 1121px;
+    height: 464px;
+    border-radius: 10px;
+    display: flex;
+    gap: 150px;
+    margin-top: 80px;
+    justify-self: center;
+}
+
+.questions .que-text {
+    margin-top: 30px;
+}
+
+.questions .que-text p {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 122%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    padding-bottom: 15px;
+}
+
+.questions .que {
+    margin-top: 20px;
+}
+
+.questions .que h2 {
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 122%;
+    letter-spacing: 0%;
+    color: #101987;
+    margin: unset;
+}
+
+.questions .que p {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 12px;
+    line-height: 122%;
+    letter-spacing: 0%;
+    width: 390px;
+    color: #211D1D;
+    margin-bottom: 20px;
+}
+
+.questions .que img {
+    width: 347px;
+    height: 289px;
+    margin: unset;
+}
+
+.getupdate {
+    background-color: #0771C466;
+    width: 1230px;
+    height: 628px;
+    margin: unset;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 60px;
+}
+
+.getupdate .update {
+    width: 914px;
+    height: 467px;
+    background-color: #e6f1f9;
+    border-radius: 29px;
+    justify-self: center;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 80px;
+}
+
+.getupdate .update img {
+    width: 558px;
+    height: 446px;
+    margin: unset;
+    overflow: hidden;
+}
+
+.getupdate .update .mail {
+    margin: unset;
+    padding: unset;
+}
+
+.getupdate .update .mail h2 {
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 150%;
+    letter-spacing: 0%;
+}
+
+.getupdate .update .mail p {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    width: 330px;
+}
+
+.getupdate .update .mail form {
+    margin: 20px 0px 0px 0px;
+}
+
+.getupdate .update .mail form input {
+    width: 370px;
+    height: 58px;
+    border-radius: 10px;
+    border: unset;
+    outline: unset;
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.getupdate .update .mail form input::placeholder {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #D6CDCD;
+}
+
+.getupdate .update .mail form #update {
+    width: 372px;
+    height: 51px;
+    border-radius: 10px;
+    background-color: #0771C4;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border: unset;
+    color: #fff;
+    cursor: pointer;
+}
+
+footer {
+    margin: 80px 0px 20px 60px;
+}
+
+footer .foot {
+    display: flex;
+    gap: 50px;
+    margin: unset;
+    justify-items: center;
+    justify-content: center;
+}
+
+footer .foot ul h2 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211D1D;
+}
+
+footer .foot ul a li {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 14px;
+    letter-spacing: 0%;
+    color: #211D1D;
+    margin: 0px 0px -10px 0px;
+    padding: unset;
+}
+
+footer .foot form {
+    margin: unset;
+}
+
+footer .foot form h2 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211D1D;
+}
+
+footer .foot form label {
+    margin: unset;
+}
+
+footer .foot form label input {
+    margin-top: 15px;
+    width: 287px;
+    height: 41px;
+    border-radius: 10px;
+    border: 1px solid #211d1d;
+    outline: none;
+    padding-left: 20px;
+}
+
+footer .foot form label input::placeholder {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+footer .foot form button {
+    width: 153px;
+    height: 34px;
+    background: #101987;
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    border: unset;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+footer .line {
+    border-top: 1px solid #D9D9D9;
+    width: 500px;
+    justify-self: center;
+    margin-bottom: 10px;
+}
+
+footer .reserved {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211D1D;
+    text-align: center;
+}
+
+footer .reserved span {
+    margin: unset;
+}

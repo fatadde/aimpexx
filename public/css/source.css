@@ -1,0 +1,103 @@
+.sourcing {
+    margin: 50px 0px 0px 0px;
+    justify-content: center;
+    justify-self: center;
+    align-items: top;
+    display: flex;
+    gap: 55px;
+}
+
+.sourcing .sourcing-text {
+    text-align: left;
+    margin: unset;
+}
+
+.sourcing .sourcing-text h2 {
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.sourcing .sourcing-text span {
+   font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: unset;
+}
+
+.sourcing .sourcing-text p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    margin: 10px 0px 0px 0px;
+    color: #211d1d;
+}
+
+.sourcing img {
+    margin: unset;
+    overflow: hidden;
+    width: 595px;
+    height: 451px;
+}
+
+.sourcing-form {
+    margin-top: 120px;
+}
+
+.sourcing-form form {
+    background-color: #0771c4;
+    width: 782px;
+    height: 506px;
+    border-radius: 10px;
+    justify-self: center;
+    margin: unset;
+}
+
+.sourcing-form form .column .form-group {
+    margin: unset;
+}
+
+.sourcing-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 20px;
+    margin: unset;
+}
+
+.sourcing-form form .form-group p {
+    padding: unset;
+    margin: unset;
+}
+
+.sourcing-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0%;
+}
+
+.sourcing-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 0px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    cursor: pointer;
+}

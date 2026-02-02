@@ -1,0 +1,295 @@
+.scheldule {
+    margin: 0px 0px 30px 0px;
+    justify-content: center;
+    justify-self: center;
+    text-align: center;
+}
+
+.scheldule .progress-bar {
+    width: 70%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.scheldule .progress-bar .progress {
+    width: 35%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+}    
+
+.scheldule h2 {
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #211d1d;
+}
+
+.scheldule p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #C6C5C5;
+
+}
+
+.scheldule form div {
+    margin-top: 30px;
+}
+
+.scheldule form div p {
+    width: 913px;
+    height: 129px;
+    border-radius: 20px;
+    background-color: #e6f2fa;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 80%;
+    letter-spacing: 0%;
+    text-align: center;
+    border: 4px solid  #0771C466;
+    margin: 0px 0px 20px 0px;
+    color: #211d1d;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.scheldule form p span {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #9E9E9E;
+    margin-top: unset;
+}
+
+.scheldule form button {
+    width: 307px;
+    height: 51px;
+    border-radius: 10px;
+    background-color: #0771C4;
+    color: #fff;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border: unset;
+    cursor: pointer;
+}
+
+.scheldule form span {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 18%;
+    text-align: center;
+}
+
+
+.scheldule2 {
+    margin: 0px 0px 30px 0px;
+    justify-content: center;
+    justify-self: center;
+    text-align: center;
+}
+
+.scheldule2 .progress-bar {
+    width: 70%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    padding-left: 290px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.scheldule2 .progress-bar .progress {
+    width: 45%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+} 
+
+.scheldule2 h2 {
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #211d1d;
+}
+
+.scheldule2 p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #C6C5C5;
+}
+
+.scheldule2 form div {
+    margin-top: 30px;
+}
+
+.scheldule2 form div p {
+    width: 913px;
+    height: 129px;
+    border-radius: 20px;
+    background-color: #e6f2fa;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 80%;
+    letter-spacing: 0%;
+    text-align: center;
+    border: 4px solid  #0771C466;
+    margin: 0px 0px 20px 0px;
+    color: #211d1d;
+    padding-top: 45px;
+    cursor: pointer;
+}
+
+.scheldule2 form button {
+    width: 307px;
+    height: 51px;
+    border-radius: 10px;
+    background-color: #0771C4;
+    color: #fff;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border: unset;
+    cursor: pointer;
+}
+
+.scheldule2 form span {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 18%;
+    text-align: center;
+}
+
+
+
+.scheldule3 {
+    margin: 50px 0px 70px 0px;
+    justify-content: center;
+    justify-self: center;
+}
+
+.scheldule3 .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.scheldule3 .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    position: relative;
+    left: 380px;
+} 
+
+.scheldule3 h2 {
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #211d1d;
+}
+
+.scheldule3 p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #C6C5C5;
+
+}
+
+.scheldule3 form {
+    justify-content: center;
+    justify-self: center;
+}
+
+.scheldule3 form .column {
+    justify-self: center;
+    padding-left: 70px;
+}
+
+.scheldule3 form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.scheldule3 form .form-group input {
+    width: 913px;
+    height: 129px;
+    border-radius: 20px;
+    outline: unset;
+    border: unset;
+    padding-left: 20px;
+    border: 4px solid #0771C466;
+}
+
+.scheldule3 form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.scheldule3 form button {
+    width: 307px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 400px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.scheldule3 span {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 18%;
+    text-align: center;
+    margin-left: 410px;
+}

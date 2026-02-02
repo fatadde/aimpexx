@@ -1,0 +1,308 @@
+.manufacture {
+    margin: 50px 0px 0px 0px;
+    justify-content: center;
+    justify-self: center;
+    align-items: top;
+    display: flex;
+    gap: 55px;
+}
+
+.manufacture .manufacture-text {
+    text-align: left;
+    margin: unset;
+}
+
+.manufacture .manufacture-text h2 {
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.manufacture .manufacture-text span {
+   font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: unset;
+}
+
+.manufacture .manufacture-text p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    margin: 10px 0px 0px 0px;
+    color: #211d1d;
+}
+
+.manufacture img {
+    margin: unset;
+    overflow: hidden;
+    width: 595px;
+    height: 451px;
+}
+
+.manufacture-form {
+    margin-top: 120px;
+}
+
+.manufacture-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.manufacture-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+} 
+
+.manufacture-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 506px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+}
+
+.manufacture-form form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.manufacture-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 40px;
+}
+
+.manufacture-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.manufacture-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.manufacture-form form .column .form-group select {
+    width: 696px;
+    height: 73px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    outline: unset;
+    overflow: hidden;
+    margin: unset;
+}
+
+.manufacture-form form .column .form-group select option {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+
+
+.manufacture2-form {
+    margin-top: 120px;
+}
+
+.manufacture2-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.manufacture2-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    position: relative;
+    left: 170px;
+} 
+
+.manufacture2-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 532px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+    padding: 40px 0px 0px 8px;
+}
+
+.manufacture2-form form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.manufacture2-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 40px;
+}
+
+.manufacture2-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.manufacture2-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.manufacture2-form form .column .form-group select {
+    width: 696px;
+    height: 73px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    outline: unset;
+    overflow: hidden;
+    margin: unset;
+}
+
+.manufacture2-form form .column .form-group select option {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+
+.manufacture3-form {
+    margin-top: 120px;
+}
+
+.manufacture3-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.manufacture3-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    position: relative;
+    left: 400px;
+} 
+
+.manufacture3-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 400px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+    padding: 50px 0px 0px 8px;
+}
+
+.manufacture3-form form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.manufacture3-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.manufacture3-form form .column .form-group select {
+    width: 696px;
+    height: 73px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    outline: unset;
+    overflow: hidden;
+    margin: unset;
+}
+
+.manufacture3-form form .column .form-group select option {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}

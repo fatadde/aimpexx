@@ -1,0 +1,265 @@
+.shippingcost {
+    margin: unset;
+    padding-top: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+.shippingcost h2 {
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #211d1d;
+    margin-bottom: 10px;
+}
+
+.shippingcost span {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: unset;
+    color: #211d1d;
+}
+
+
+
+.shippingcost2 {
+    background-color: #fff;
+    width: 1100px;
+    height: 245px;
+    border-radius: 15px;
+    justify-content: center;
+    justify-self: center;
+    text-align: left;
+    box-shadow: 0px 10px 9.1px 0px #0000001A;
+    margin-top: 50px;
+}
+
+.shippingcost2 p {
+    font-family: Poppins;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.shippingcost2 .column {
+    display: flex;
+    gap: 200px;
+}
+
+.shippingcost2 .column div p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    display: flex;
+    padding-top: 25px;
+}
+
+.shippingcost3 {
+    background-color: #fff;
+    width: 1100px;
+    height: 500px;
+    border-radius: 15px;
+    justify-content: center;
+    justify-self: center;
+    text-align: left;
+    box-shadow: 0px 10px 9.1px 0px #0000001A;
+    margin-top: 50px;
+}
+
+.shippingcost3 p {
+    font-family: Poppins;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.shippingcost3 .column {
+    display: flex;
+    gap: 30px;
+}
+
+.shippingcost3 .column div p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    display: flex;
+    padding-top: 25px;
+}
+
+.shippingcost3 span {
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Italic;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #101987;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 300px;
+}
+
+
+.details-cost {
+    margin: unset;
+    padding-top: 80px;
+    justify-content: center;
+    justify-self: center;
+}
+
+.details-cost .cost-head {
+    text-align: center;
+}
+
+.details-cost .cost-head h2 {
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0771c4;
+}
+
+.details-cost .cost-head p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #211d1d;
+}
+
+.shippingcost-form {
+    width: 1100px;
+    height: 706px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 10px 9.1px 0px #0000001A;
+    margin: 30px 0px 40px 0px;
+}
+
+.shippingcost-form .columns form {
+    margin: 0px 0px 0px 45px;
+}
+
+.shippingcost-form .columns form .colum {
+    display: flex;
+    margin: unset;
+    padding-top: 20px;
+}
+
+.shippingcost-form .columns form .colum .column {
+    margin: unset;
+}
+
+.shippingcost-form .columns form .colum .column .field {
+    margin: 30px 0px 0px 0px;
+}
+
+.shippingcost-form .columns form .colum .column .field label {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    margin: unset;
+}
+
+.shippingcost-form .columns form .colum .column .field input {
+    width: 494px;
+    height: 48px;
+    margin: 10px 0px 0px 0px;
+    border: 1px solid #D6CDCD;
+    border-radius: 5px;
+    padding-left: 20px;
+    outline: unset;
+}
+
+.shippingcost-form .columns form .colum .column select {
+    width: 494px;
+    height: 48px;
+    border: 1px solid #D6CDCD;
+    border-radius: 5px;
+    margin: 10px 0px 0px 0px;
+    padding-left: 20px;
+    outline: unset;
+    overflow: hidden;
+}
+
+.shippingcost-form .columns form .balance {
+    width: 1000px;
+    height: 106px;
+    border: 3px solid #0771C4;
+    margin: 50px 0px 0px 0px;
+    display: flex;
+    gap: 400px;
+    justify-self: center;
+    text-align: center;
+    background-color: #dcefff;
+}
+
+.shippingcost-form .columns form .balance div {
+    margin: unset;
+    padding: 20px 0px 0px 50px;
+}
+
+.shippingcost-form .columns form .balance div b {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    margin: unset;
+}
+
+.shippingcost-form .columns form .balance div p {
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: 20px 0px 0px 0px;
+    text-align: left;
+}
+
+.shippingcost-form .columns form button {
+    width: 728px;
+    height: 51px;
+    background-color: #0771C4;
+    border-radius: 10px;
+    color: #fff;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border: unset;
+    margin: 80px 0px 0px 145px;
+    cursor: pointer;
+}

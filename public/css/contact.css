@@ -1,0 +1,108 @@
+.contact {
+    margin: unset;
+    justify-content: center;
+    justify-self: center;
+}
+
+.contact div {
+    background-image: url("/images/contact.png");
+    width: 1502px;
+    height: 231px;
+    margin-top: 50px;
+}
+
+.contact div p {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 122%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+}
+
+.contact-form {
+    justify-self: center;
+    justify-content: center;
+    margin: unset;
+    display: flex;
+    gap: 10px;
+    position: relative;
+    top: 70px;
+}
+
+.contact-form .columns {
+    margin: unset;
+    position: relative;
+    top: -50px;
+}
+
+.contact-form .columns form .column .form-group {
+    margin: 20px 0px 0px 0px;
+}
+
+.contact-form .columns form .column .form-group label {
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    text-align: left;
+    margin: unset;
+}
+
+.contact-form .columns form .column .form-group input {
+    width: 628px;
+    height: 46px;
+    border: 2px solid #D9D9D970;
+    outline: unset;
+    border-radius: 10px;
+    margin: unset;
+    padding-left: 20px;
+}
+
+.contact-form .columns form button {
+    width: 628px;
+    height: 51px;
+    background-color: #0771c4;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border-radius: 10px;
+    border: unset;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px 0px 0px 42px;
+    justify-self: center;
+}
+
+.contact-form img {
+    width: 498px;
+    height: 580px;
+    margin: unset;
+    padding-right: 90px;
+}
+
+.contact-address {
+    display: flex;
+    gap: 40px;
+    justify-self: center;
+    margin: unset;
+    padding-top: 50px;
+}
+
+.contact-address p {
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: black;
+}

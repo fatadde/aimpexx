@@ -1,0 +1,70 @@
+.trackshipment {
+    margin: unset;
+    padding: unset;
+    justify-content: center;
+    justify-self: center;
+}
+
+.trackshipment h2 {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 122%;
+    letter-spacing: 0%;
+    color: #211d1d;
+    text-align: center;
+}
+
+.trackshipment .track {
+    display: flex;
+    margin: 50px 0px 0px 0px;
+    align-items: top;
+}
+
+.trackshipment .track .track-form {
+    margin: unset;
+    padding-top: 40px;
+}
+
+.trackshipment .track .track-form form .field label {
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    margin: unset;
+}
+
+.trackshipment .track .track-form form .field input {
+    width: 401px;
+    height: 46px;
+    border-radius: 10px;
+    border: 2px solid #D9D9D970;
+    outline: unset;
+    margin: unset;
+    padding-left: 20px;
+}
+
+.trackshipment .track .track-form form button {
+    width: 401px;
+    height: 46px;
+    border: unset;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    background-color: #0771c4;
+    border-radius: 10px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.trackshipment .track .track-form img {
+    width: 605px;
+    height: 365px;
+    margin: unset;
+}

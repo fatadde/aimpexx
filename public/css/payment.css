@@ -1,0 +1,286 @@
+.payment {
+    margin: 50px 0px 0px 0px;
+    justify-content: center;
+    justify-self: center;
+    align-items: top;
+    display: flex;
+    gap: 55px;
+}
+
+.payment .payment-text {
+    text-align: left;
+    margin: unset;
+}
+
+.payment .payment-text h2 {
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.payment .payment-text span {
+   font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: unset;
+}
+
+.payment .payment-text p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    margin: 10px 0px 0px 0px;
+    color: #211d1d;
+}
+
+.payment img {
+    margin: unset;
+    overflow: hidden;
+    width: 595px;
+    height: 451px;
+}
+
+.payment-form {
+    margin-top: 120px;
+}
+
+.payment-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.payment-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+} 
+
+.payment-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 506px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+}
+
+.payment-form form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.payment-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 40px;
+}
+
+.payment-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.payment-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+
+
+
+.payment2-form {
+    margin-top: 100px;
+}
+
+.payment2-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.payment2-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    position: relative;
+    left: 170px;
+} 
+
+.payment2-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 350px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+    padding: 40px 0px 0px 8px;
+}
+
+.payment2-form form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.payment2-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 40px;
+}
+
+.payment2-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.payment2-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.payment2-form form .column .form-group select {
+    width: 696px;
+    height: 73px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    outline: unset;
+    overflow: hidden;
+    margin: unset;
+}
+
+.payment2-form form .column .form-group select option {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+
+
+.payment3-form {
+    margin-top: 100px;
+}
+
+.payment3-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.payment3-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    position: relative;
+    left: 400px;
+} 
+
+.payment3-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 399px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+}
+
+.payment3-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.payment3-form form .column .form-group select {
+    width: 696px;
+    height: 73px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    outline: unset;
+    overflow: hidden;
+    margin: unset;
+}
+
+.payment3-form form .column .form-group select option {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}

@@ -1,0 +1,321 @@
+.quality {
+    margin: 50px 0px 0px 0px;
+    justify-content: center;
+    justify-self: center;
+    align-items: top;
+    display: flex;
+    gap: 55px;
+}
+
+.quality .quality-text {
+    text-align: left;
+    margin: unset;
+}
+
+.quality .quality-text h2 {
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #211d1d;
+}
+
+.quality .quality-text span {
+   font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: unset;
+}
+
+.quality .quality-text p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    margin: 10px 0px 0px 0px;
+    color: #211d1d;
+}
+
+.quality img {
+    margin: unset;
+    overflow: hidden;
+    width: 595px;
+    height: 451px;
+}
+
+.quality-form {
+    margin-top: 120px;
+}
+
+.quality-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.quality-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+} 
+
+.quality-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 525px; 
+    padding-left: 8px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+}
+
+.quality form .column {
+    padding: 40px 0px 0px 8px;
+}
+
+.quality-form form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.quality-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 40px;
+}
+
+.quality-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.quality-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+
+
+
+.quality2-form {
+    margin-top: 120px;
+}
+
+.quality2-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.quality2-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    position: relative;
+    left: 170px;
+} 
+
+.quality2-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 532px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+    padding: 40px 0px 0px 8px;
+}
+
+.quality2-form .column {
+    padding: 10px 0px 0px 8px;
+}
+
+.quality2-form form .column .form-group {
+    margin: 10px 0px 0px 0px;
+}
+
+.quality2-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 40px;
+}
+
+.quality2-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.quality2-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.quality2-form form .column .form-group select {
+    width: 696px;
+    height: 73px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    outline: unset;
+    overflow: hidden;
+    margin: unset;
+}
+
+.quality2-form form .column .form-group select option {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+
+
+
+.quality3-form {
+    margin-top: 70px;
+}
+
+.quality3-form .progress-bar {
+    width: 60%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px 0px 15px 0px;
+    overflow: hidden;
+    justify-content: center;
+    justify-self: center;
+}
+
+.quality3-form .progress-bar .progress {
+    width: 40%;
+    height: 100%;
+    background-color: #0771C4;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    position: relative;
+    left: 400px;
+} 
+
+.quality3-form form {
+    justify-content: center;
+    justify-self: center;
+    width: 782px;
+    height: 460px;
+    background-color:  #0771c4;
+    border-radius: 10px;
+    padding: 0px 0px 0px 8px;
+}
+
+.quality3-form .column {
+    padding: 30px 0px 0px 8px;
+}
+
+.quality3-form form .column .form-group {
+    margin: 30px 0px 0px 0px;
+}
+
+.quality3-form form .form-group input {
+    width: 693px;
+    height: 73px;
+    border-radius: 10px;
+    outline: unset;
+    border: unset;
+    padding-left: 40px;
+}
+
+.quality3-form form .form-group input::placeholder {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.quality3-form form button {
+    width: 696px;
+    height: 51px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #101987;
+    margin: 15px 0px 0px 40px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+    justify-self: center;
+    cursor: pointer;
+}
+
+.quality3-form form .column .form-group select {
+    width: 696px;
+    height: 73px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    outline: unset;
+    overflow: hidden;
+    margin: unset;
+}
+
+.quality3-form form .column .form-group select option {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
